@@ -1,5 +1,5 @@
 <div align="center">
-  # Anotações sobre o bootcamp Carrefour Web Developer da DIO
+  <h1>Anotações sobre o bootcamp Carrefour Web Developer da DIO</h1>
 </div>
 
 <div align="center">
